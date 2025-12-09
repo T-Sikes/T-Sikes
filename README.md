@@ -33,7 +33,7 @@ Here are some ideas to get you started:
  ### Volunteer Database System
 - Full-stack web app for volunteer registration, role assignment, and profile tracking.  
 - Backend: Django + MySQL | Frontend: React  
-- [GitHub Repo](https://github.com/T-Sikes/VolunteerDatabase)
+- [GitHub Repo](https://github.com/T-Sikes/Volunteer_Database_Manager)
 
 ---
 ## 📫 Contact Me
