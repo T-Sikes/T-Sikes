@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## 🔧 Tech Stack
 - **Languages** Python, SQL, C++, JavaScript
 - **Frameworks** PyTorch, Django, React
-- **Tools** Jupyter, Git, MySQL, Windows, Linux
+- **Tools** Jupyter, Git, MySQL, Windows, Linux, Azure & Azure AI Resources
 
 ---
 ## 🚀 Featured Projects
